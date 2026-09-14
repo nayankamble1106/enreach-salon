@@ -25,8 +25,6 @@ const DEFAULT_IMAGES: string[] = [
   './image8.jpg',
   './image9.jpg',
 ];
-];
-
 export default function App() {
   // Preserves any existing custom or default menu images (100% untouched)
   const [images] = useState<string[]>(() => {
