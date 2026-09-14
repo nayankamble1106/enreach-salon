@@ -1,0 +1,6 @@
+{
+  "name": "Enreach Unisex Salon",
+  "description": "Zero-fluff mobile-first digital menu and WhatsApp appointment booking for Enreach Unisex Salon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
