@@ -15,15 +15,16 @@ import { LocationAndFooter } from './components/LocationAndFooter';
 const STORAGE_KEY = 'enreach_salon_custom_menu_images';
 
 const DEFAULT_IMAGES: string[] = [
-  'image1.jpg',
-  'image2.jpg',
-  'image3.jpg',
-  'image4.jpg',
-  'image5.jpg',
-  'image6.jpg',
-  'image7.jpg',
-  'image8.jpg',
-  'image9.jpg',
+  './image1.jpg',
+  './image2.jpg',
+  './image3.jpg',
+  './image4.jpg',
+  './image5.jpg',
+  './image6.jpg',
+  './image7.jpg',
+  './image8.jpg',
+  './image9.jpg',
+];
 ];
 
 export default function App() {
