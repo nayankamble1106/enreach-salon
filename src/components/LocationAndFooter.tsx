@@ -5,10 +5,9 @@ export const LocationAndFooter: React.FC = () => {
   const currentYear = new Date().getFullYear();
 
   const MAPS_EMBED_URL =
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60003.60230414478!2d79.22043744863284!3d19.95703170000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd2d589e0138bcf%3A0x49e9d6ef468c0475!2sEnreach%20Unisex%20Saloon!5e0!3m2!1sen!2sin!4v1789812112197!5m2!1sen!2sin;
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60003.60230414478!2d79.22043744863284!3d19.95703170000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd2d589e0138bcf%3A0x49e9d6ef468c0475!2sEnreach%20Unisex%20Saloon!5e0!3m2!1sen!2sin!4v1789812112197!5m2!1sen!2sin';
   const MAPS_DIRECTIONS_URL =
-    'https://maps.app.goo.gl/...;
-
+    'https://maps.app.goo.gl/...';
   return (
     <div className="w-full">
       {/* 
